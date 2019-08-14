@@ -1,0 +1,113 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/elasticsearch" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/elasticsearch-analysis-morfologik" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/fuckingkotlin" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/abroholos" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/alize" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/karakaze" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/karif" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/kyc-batch-data-producer" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/nigeria-commons" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/nigeria-events" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/simoom" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/solano" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/vendavel" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/Nigeria/wreckhouse" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/TouK/vendavel" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/WeatherStreams" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/abroholos" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/bricks" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/coromuel" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/euroclydon" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/karif" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/kuroshio" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/libeccio" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/nigeria-common-integrations" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/oroshi" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/rashabar" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/simoom" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/sirocco" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/socialnetwork" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/solano" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/vendavel" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>scala-sdk-2.12.4</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>10</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
