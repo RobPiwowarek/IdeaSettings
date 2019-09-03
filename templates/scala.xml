@@ -11,10 +11,23 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
-  <template name="enum" value="sealed trait $name$&#10;object $name$ {&#10;  case object $type1$ extends $name$&#10;  case object $type2$ extends $name$&#10;}" description="Template Enum for scala" toReformat="true" toShortenFQNames="true">
+  <template name="enum" value="sealed trait $name$&#10;object $name$ {&#10;  case object $type1$ extends $name$&#10;  case object $type2$ extends $name$&#10;}" description="Template Enum for scala" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="co" value="case object $name$" description="Template for scala case object" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="case class $name$(value: $type$)" description="Template for case class" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="CaseClass" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="String" alwaysStopAt="true" />
     <context>
       <option name="SCALA" value="true" />
     </context>
