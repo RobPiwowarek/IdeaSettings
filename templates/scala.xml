@@ -32,4 +32,18 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
+  <template name="decoder" value="implicit val $name$Decoder: Decoder[$typeName$] = deriveDecoder" description="Template for circe decoder" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="typeName" expression="capitalize(name)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="encoder" value="implicit val $name$Encoder: Encoder[$typeName$] = deriveEncoder" description="Template for circe encoder" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="typeName" expression="capitalize(name)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
 </templateSet>
