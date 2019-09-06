@@ -1,6 +1,12 @@
 <code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="pl.touk.nigeria.commons.domain.circe.decoders._" />
+        <option value="pl.touk.nigeria.commons.domain.circe.encoders._" />
+      </array>
+    </option>
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
   </ScalaCodeStyleSettings>
 </code_scheme>
