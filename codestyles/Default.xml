@@ -5,6 +5,7 @@
       <array>
         <option value="pl.touk.nigeria.commons.domain.circe.decoders._" />
         <option value="pl.touk.nigeria.commons.domain.circe.encoders._" />
+        <option value="pl.touk.tsuyu.core.domain.CommonEncodersAndDecoders._" />
       </array>
     </option>
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
