@@ -8,6 +8,9 @@
         <option value="pl.touk.karif.client.isw.decoders._" />
         <option value="pl.touk.nigeria.commons.domain.circe.decoders._" />
         <option value="pl.touk.nigeria.commons.domain.circe.encoders._" />
+        <option value="pl.touk.simoom.api.RawApi.encoders.accountEncoder" />
+        <option value="pl.touk.simoom.externalservice.paymentprovider.mcash.McashPaymentProviderClient.FailureResultResponse.jsonDecoder" />
+        <option value="pl.touk.simoom.externalservice.paymentprovider.mcash.McashPaymentProviderClient.paymentResponseDecoder" />
         <option value="pl.touk.tsuyu.core.domain.CommonEncodersAndDecoders._" />
       </array>
     </option>
