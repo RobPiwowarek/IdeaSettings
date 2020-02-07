@@ -3,6 +3,7 @@
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
+        <option value="McashPaymentProviderClient.FailureResultResponse.jsonDecoder" />
         <option value="io.circe.config.syntax._" />
         <option value="pl.touk.karif.client.isw.decoders._" />
         <option value="pl.touk.nigeria.commons.domain.circe.decoders._" />
